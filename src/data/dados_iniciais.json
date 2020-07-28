@@ -1,0 +1,170 @@
+{
+  "categorias": [
+    {
+      "titulo": "Choque de Cultura",
+      "link": "https://www.youtube.com/watch?v=4u1w1UnqI0Y&list=PLA2Gd9vTv5MWbT1N-RVoTO7MHkfjKkYVV",
+      "cor": "#6BD1FF",
+      "link_extra": { },
+      "videos": [
+        {
+          "titulo": "CHOQUE DE CULTURA #1: Harry Potter Sem Harry Potter",
+          "url": "https://youtu.be/4u1w1UnqI0Y"
+        },
+        {
+          "titulo": "CHOQUE DE CULTURA #2: Só Magia Top",
+          "url": "https://youtu.be/pZnWLgFOkBg"
+        },
+        {
+          "titulo": "CHOQUE DE CULTURA #3: Velozes e Furiosos é Arte",
+          "url": "https://youtu.be/s5-fdzY1JGw"
+        },
+        {
+          "titulo": "CHOQUE DE CULTURA #4: Vin Diesel vs Bruce Willis vs The Rock",
+          "url": "https://youtu.be/nox2gG6Mb90"
+        },
+        {
+          "titulo": "CHOQUE DE CULTURA #5: A Melhor Comédia do Ano - Trailer do Plano Real",
+          "url": "https://youtu.be/EK65zq2bAKU"
+        },
+        {
+          "titulo": "CHOQUE DE CULTURA #6: O Matrix Brasileiro",
+          "url": "https://youtu.be/WMN7F6Nh7vw"
+        },
+        {
+          "titulo": "CHOQUE DE CULTURA #7: Piratas, Macacos e Johnny Depp",
+          "url": "https://youtu.be/ddCSn2ODj2w"
+        },
+        {
+          "titulo": "CHOQUE DE CULTURA #8: Johnny Depp é Show",
+          "url": "https://youtu.be/s8lIo4mLah4"
+        }        
+      ]
+    },
+    {
+      "titulo": "O Último Programa Do Mundo",
+      "cor": "#00C86F",
+      "link_extra": { },
+      "videos": [
+        {
+          "titulo": "O ÚLTIMO PROGRAMA DO MUNDO #1: Idoso",
+          "url": "https://youtu.be/zQX0jNW45AY"
+        },
+        {
+          "titulo": "O ÚLTIMO PROGRAMA DO MUNDO #2: Analista de Opec",
+          "url": "https://youtu.be/9PjA6HxAZ6o"
+        },
+        {
+          "titulo": "O ÚLTIMO PROGRAMA DO MUNDO #3: Porteiro",
+          "url": "https://youtu.be/IycCFVsGzpY"
+        },
+        {
+          "titulo": "O ÚLTIMO PROGRAMA DO MUNDO #4: Figurante",
+          "url": "https://youtu.be/bu30TTvo_RM"
+        }, 
+        {
+          "titulo": "O ÚLTIMO PROGRAMA DO MUNDO #5: Edinho",
+          "url": "https://youtu.be/yvnPBJI8oVU"
+        }
+      ]
+    },
+    {
+      "titulo": "Falha De Cobertura",
+      "cor": "#9cd33b",
+      "link_extra": { },
+      "videos": [
+        {
+          "titulo": "FALHA DE COBERTURA #1: Lúcia + Fernando = Lúcifer",
+          "url": "https://youtu.be/NpvhE45eVNs"
+        },
+        {
+          "titulo": "FALHA DE COBERTURA #2: Dificuldade do Flamengo é depender de si",
+          "url": "https://youtu.be/E98herBimog"
+        },
+        {
+          "titulo": "FALHA DE COBERTURA #3: Análise Relâmpago",
+          "url": "https://youtu.be/iHVMnf0ePU4"
+        },
+        {
+          "titulo": "FALHA DE COBERTURA #4: A força vice-campeã do Vasco",
+          "url": "https://youtu.be/4uRLkSGhkkI"
+        }
+      ]
+    },
+    {
+      "titulo": "Overdose",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "OVERDOSE #1",
+          "url": "https://youtu.be/J09uNLGPSTc"
+        },
+        {
+          "titulo": "OVERDOSE #2: Videoclipe",
+          "url": "https://youtu.be/-2hBSPAeERU"
+        },
+        {
+          "titulo": "Overdose #3: Projeto Paralelo",
+          "url": "https://youtu.be/nllkCuofwac"
+        },
+        {
+          "titulo": "OVERDOSE #4: Controle Criativo",
+          "url": "https://youtu.be/pEguIq4hL1M"
+        }
+      ]
+    },
+    {
+      "titulo": "Frases Que Valem Tapa Na Cara",
+      "cor": "red",
+      "link_extra": { },
+      "videos": [
+        {
+          "titulo": "FRASES QUE VALEM TAPA NA CARA | BBB",
+          "url": "https://youtu.be/2axMYUxkLxw"
+        },
+        {
+          "titulo": "FRASES QUE VALEM TAPA NA CARA | Genéricos",
+          "url": "https://youtu.be/j6x4cipW-go"
+        },
+        {
+          "titulo": "FRASES QUE VALEM TAPA NA CARA | Quarentena 2",
+          "url": "https://youtu.be/Oj1jU3ZDqMY"
+        },
+        {
+          "titulo": "FRASES QUE VALEM TAPA NA CARA | Quarentena",
+          "url": "https://youtu.be/2KusqZV80N0"
+        },
+        {
+          "titulo": "FRASES QUE VALEM TAPA NA CARA: 2º Turno",
+          "url": "https://youtu.be/G35zrn4ERpM"
+        }
+      ]
+    },
+    {
+      "titulo": "Lei Velho Cagado",
+      "cor": "#6b5be2",
+      "link_extra": { },
+      "videos": [
+        {
+          "titulo": "SEU ZEZIN E A LEI VELHO CAGADO",
+          "url": "https://youtu.be/QJRSf8Dyd0c"
+        },
+        {
+          "titulo": "SEU ZEZIN E O SONHO DE PARAR DE FAZER CINEMA",
+          "url": "https://youtu.be/pxi7yfwRA3o"
+        },
+        {
+          "titulo": "JONAS EDSON E A LEI VELHO CAGADO",
+          "url": "https://youtu.be/GUZk-IwjlCA"
+        },
+        {
+          "titulo": "BERNARDO TOBLERONE E A LEI VELHO CAGADO",
+          "url": "https://youtu.be/WJOIU1p6LRo"
+        },
+        {
+          "titulo": "ADEGARD BARBOSA E A LEI VELHO CAGADO",
+          "url": "https://youtu.be/3glIfJLwLQQ"
+        }
+      ]
+    }
+  ]
+}
